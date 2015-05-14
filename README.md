@@ -4,7 +4,7 @@
 
 Requires Rust installed
 
-It can be aquired here: [http://www.rust-lang.org/]
+It can be aquired here: http://www.rust-lang.org
 
 ### Building
 
